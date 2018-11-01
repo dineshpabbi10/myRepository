@@ -1,0 +1,12 @@
+SMAP
+manageservices_jsp.java
+JSP
+*S JSP
+*F
++ 0 manageservices.jsp
+manageservices.jsp
+*L
+1,579:44
+580:623,3
+581,197:626
+*E
